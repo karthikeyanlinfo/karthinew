@@ -1,0 +1,12 @@
+{
+    "name": "toxinsolutions-website",
+    "version": "1.0.0",
+    "description": "ToxinSolutions — Next-Gen Tech Premium Agency Website",
+    "main": "index.html",
+    "scripts": {
+        "start": "python3 server.py",
+        "dev": "python3 server.py"
+    },
+    "author": "ToxinSolutions",
+    "license": "MIT"
+}
